@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [https://vk.com/](https://vk.com/i_kotiev)
+- :mailbox:How to reach me: [www.vk.com/](https://vk.com/i_kotiev)
 
 ---
 
