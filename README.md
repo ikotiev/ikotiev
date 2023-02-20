@@ -1,8 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-      
-    
+    <a href="https://t.me/ikotiev">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://vk.com/i_kotiev">
+      <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vkontakte Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ikotiev&style=flat-square&color=blue" alt=""/>
   <h1>
