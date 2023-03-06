@@ -59,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ikotiev&theme=dark)](https://git.io/streak-stats)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikotiev&repo=github-readme-stats)]()
   
 </div>
 
