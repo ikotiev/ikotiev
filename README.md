@@ -59,8 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=ikotiev)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikotiev&langs_count=8)]()
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikotiev)]()
   
 </div>
 
